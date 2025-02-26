@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/church-training/vocal-mix-tip-multiband-compression/"}
+{"dg-publish":true,"permalink":"/church-training/vocal-mix-tip-multiband-compression/","tags":["learning"]}
 ---
 
 
