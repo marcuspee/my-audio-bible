@@ -9,19 +9,19 @@ These learnings are mostly accessible via other links on this Audio Bible, but t
 
 
 ## Physics of Sound
-- [[Church Training - Audio Bible/What is Sound\|What is Sound]]
-- [[Church Training - Audio Bible/Physical Properties of Sound\|Physical Properties of Sound]]
-- [[Church Training - Audio Bible/Analogue Audio\|Analogue Audio]]
-- [[Church Training - Audio Bible/Digital Audio\|Digital Audio]]
-- [[Church Training - Audio Bible/Advanced sound Physics - Reflections and space\|Advanced sound Physics - Reflections and space]]
-- [[Church Training - Audio Bible/Psychoacoustics\|Psychoacoustics]]
+- [[Church Training - Audio Bible/Physics of Sound/What is Sound\|What is Sound]]
+- [[Church Training - Audio Bible/Physics of Sound/Physical Properties of Sound\|Physical Properties of Sound]]
+- [[Church Training - Audio Bible/Physics of Sound/Analogue Audio\|Analogue Audio]]
+- [[Church Training - Audio Bible/Physics of Sound/Digital Audio\|Digital Audio]]
+- [[Church Training - Audio Bible/Physics of Sound/Advanced sound Physics - Reflections and space\|Advanced sound Physics - Reflections and space]]
+- [[Church Training - Audio Bible/Physics of Sound/Psychoacoustics\|Psychoacoustics]]
 ## Mixing and Editing
-- Gain Staging and Balancing Levels
-- Panning and Stereo Imaging
-- EQ and Frequency Balance
-- Compression and Dynamics
-- Gating/Expanders and clarity
-- Mixing to Multiple Destinations
+- [[Church Training - Audio Bible/Mixing and Editing/Gain Staging and Balancing Levels\|Gain Staging and Balancing Levels]]
+- [[Church Training - Audio Bible/Mixing and Editing/Panning and Stereo Imaging\|Panning and Stereo Imaging]]
+- [[Church Training - Audio Bible/Mixing and Editing/EQ and Frequency Balance\|EQ and Frequency Balance]]
+- [[Church Training - Audio Bible/Mixing and Editing/Compression and Dynamics\|Compression and Dynamics]]
+- [[Church Training - Audio Bible/Mixing and Editing/Gates, Expanders and clarity\|Gates, Expanders and clarity]]
+- [[Church Training - Audio Bible/Mixing and Editing/Mixing to Multiple Destinations\|Mixing to Multiple Destinations]]
 
 ## Audio Systems and Equipment
 
