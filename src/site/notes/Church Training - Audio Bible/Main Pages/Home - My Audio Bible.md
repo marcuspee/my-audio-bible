@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/church-training-audio-bible/main-pages/home-my-audio-bible/","tags":["gardenEntry"]}
+---
+
+
+# Welcome
+This is the start of a not-so-complete documentation for learning about sound, ministry and the combination of both to build a strong ministry and relationship with Christ.
+
+It is a very active work in progress so bear with it while I make changes and updates to this digital garden of notes.
+
+
+
+# Quick Links
+- [[Church Training - Audio Bible/Vocal Mix Tip - Multiband Compression\|Vocal Mix Tip - Multiband Compression]]
+- [[Church Training - Audio Bible/Basics of Audio\|Basics of Audio]]
+- [[Church Training - Audio Bible/Digital Audio\|Digital Audio]]
+- [[Church Training - Audio Bible/Setup and Packdown\|Setup and Packdown]]
