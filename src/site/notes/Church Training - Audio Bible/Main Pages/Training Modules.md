@@ -23,13 +23,8 @@ These learnings are mostly accessible via other links on this Audio Bible, but t
 - [[Church Training - Audio Bible/Mixing and Editing/Gates, Expanders and clarity\|Gates, Expanders and clarity]]
 - [[Church Training - Audio Bible/Mixing and Editing/Mixing to Multiple Destinations\|Mixing to Multiple Destinations]]
 
-## Audio Systems and Equipment
-
-
-
-
-# Training Materials and Outcomes
-
-- [[Church Training - Audio Bible/Setup and Packdown\|Setup and Packdown]]
-- [[Basics of Audio\|Basics of Audio]]
-- 
+## Audio System and Equipment
+- [[Church Training - Audio Bible/Audio System and Equipment/Setup and Packdown\|Setup and Packdown]]
+- [[Church Training - Audio Bible/Audio System and Equipment/Speakers\|Speakers]]
+- [[Church Training - Audio Bible/Audio System and Equipment/Microphones\|Microphones]]
+- [[Church Training - Audio Bible/Audio System and Equipment/DI (Direct Injection) Boxes\|DI (Direct Injection) Boxes]]
