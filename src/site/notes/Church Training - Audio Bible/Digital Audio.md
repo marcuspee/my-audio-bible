@@ -3,13 +3,13 @@
 ---
 
 
-Return to : [[Church Training - Audio Bible/Basics of Audio\|Basics of Audio]]
+Return to : [[Basics of Audio\|Basics of Audio]]
 
 Work in progress! Don't read, kinda confusing now
 # Introduction
 As the title suggests, Digital Audio is the term we use for audio (that is sound) that is in the digital form.
 
-We covered in the [[Church Training - Audio Bible/Basics of Audio\|Basics of Audio]] that sound can exist in the physical, analogue and digital form.
+We covered in the [[Basics of Audio\|Basics of Audio]] that sound can exist in the physical, analogue and digital form.
 In this note we will cover Digital Audio, what it is, how it works, and how we can fully utilize it.
 
 
@@ -17,7 +17,7 @@ In this note we will cover Digital Audio, what it is, how it works, and how we c
 > It is advised you are thoroughly familiar with the basics of audio before continuing on this next chapter. 
 
 ## Digital Signals
-Similar to analogue signals (covered in [[Church Training - Audio Bible/Basics of Audio\|Basics of Audio]]), digital signals also consist of electrical signals.
+Similar to analogue signals (covered in [[Basics of Audio\|Basics of Audio]]), digital signals also consist of electrical signals.
 
 However, they translate and behave very differently from Analogue signals.
 

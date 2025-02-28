@@ -31,5 +31,5 @@ These learnings are mostly accessible via other links on this Audio Bible, but t
 # Training Materials and Outcomes
 
 - [[Church Training - Audio Bible/Setup and Packdown\|Setup and Packdown]]
-- [[Church Training - Audio Bible/Basics of Audio\|Basics of Audio]]
+- [[Basics of Audio\|Basics of Audio]]
 - 
