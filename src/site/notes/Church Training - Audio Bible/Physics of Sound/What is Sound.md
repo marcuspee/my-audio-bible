@@ -9,13 +9,16 @@ It is a very basic question, but we begin our journey by answering the simple on
 > We have to learn to walk before we can run
 > - E.L James
 
-So what is sound? Sound as we know it, is the vibration of air particles. That translates to vibrations to our eardrums, which then transfers the energy to tiny nerve endings inside our ear and that is perceived as sound!
+So what is sound? 
+
+Sound as we know it, is the vibration of air particles. That translates to vibrations to our eardrums, which then transfers the energy to tiny nerve endings inside our ear and that is perceived as sound!
 
 That is simple enough, no?
 
 
 Lets dive **deeper.** 
 
+## Sound as a Medium
 Now that we know that sound is made out of vibrations, how do the vibrations move along the air?
 
 When something makes a sound, it vibrates - let's just take a speaker in example.

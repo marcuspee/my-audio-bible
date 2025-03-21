@@ -12,7 +12,7 @@ I highly recommend starting at [[Church Training - Audio Bible/Main Pages/Traini
 
 # Quick Links
 - [[Church Training - Audio Bible/Main Pages/Training Modules\|Training Modules]]
-- [[Church Training - Audio Bible/Vocal Mix Tip - Multiband Compression\|Vocal Mix Tip - Multiband Compression]]
+- [[Church Training - Audio Bible/Misc Tips and Trivia/Vocal Mix Tip - Multiband Compression\|Vocal Mix Tip - Multiband Compression]]
 - [[Blog (soundthoughts/Cookie Cutter\|Cookie Cutter]] - Personal Blog Post from 2018
 - [[Blog (soundthoughts/Spiritual Technicality\|Spiritual Technicality]] - Personal Blog Post from 2017
 - [[Blog (soundthoughts/Thresholds\|Thresholds]] - Personal Blog Post from 2017
